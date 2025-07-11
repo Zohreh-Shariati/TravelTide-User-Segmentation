@@ -23,11 +23,11 @@ These datasets were merged and cleaned to build a comprehensive picture of each 
 
 ## 3. Methodology
 
-### 🔍 Data Filtering
+### Data Filtering
 - Focused only on **active users** who engaged with the app in the past 6 months to ensure relevance.
 - Removed incomplete, duplicate, or irrelevant records.
 
-### 🧮 Data Aggregation
+### Data Aggregation
 - Transformed session-level records into **user-level metrics**.
 - Created metrics such as:
   - Total number of sessions
@@ -36,7 +36,7 @@ These datasets were merged and cleaned to build a comprehensive picture of each 
   - Frequency of engagement
 
 
-### 🎯 Metric Weighting
+### Metric Weighting
 - Developed a **scoring system** to associate users with perks.
 - Weights were manually assigned to behavioral features due to lack of ground-truth labels.
 
