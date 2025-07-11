@@ -66,10 +66,7 @@ These datasets were merged and cleaned to build a comprehensive picture of each 
 3. **Automate Segmentation**  
    Deploy the segmentation logic into a live system for real-time user classification and dynamic perk distribution.
 
-4. **Track Post-Perk Engagement**  
-   Collect and analyze metrics post-perk distribution to understand what incentives work best for each segment.
-
-5. **Expand Data Sources**  
-   Integrate qualitative data such as customer reviews, survey responses, and support tickets for more holistic user profiling.
+4. **Targeted Marketing Strategies**  
+ Develop campaigns that appeal to all genders and age groups to expand reach and build a more diverse customer base.
 
 ---
