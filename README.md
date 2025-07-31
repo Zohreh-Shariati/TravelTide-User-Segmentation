@@ -1,6 +1,6 @@
 # Travel Tide – User Segmentation Analysis
 
-## 1. Project Overview
+## Project Overview
 
 This project focuses on **user segmentation for Travel Tide**, a company that offers a platform for booking flights and hotels. The objective is to analyze user activity and engagement in order to design a segmentation model that enables the company to target users with relevant perks or offers.
 
@@ -8,7 +8,7 @@ The project involved preprocessing and analyzing behavioral and transactional da
 
 ---
 
-## 2. Data Sources
+## Data Sources
 
 The analysis utilized the following four tables:
 
@@ -21,7 +21,7 @@ These datasets were merged and cleaned to build a comprehensive picture of each 
 
 ---
 
-## 3. Methodology
+## Methodology
 
 ### Data Filtering
 - Focused only on **active users** who engaged with the app in the past 6 months to ensure relevance.
@@ -42,7 +42,7 @@ These datasets were merged and cleaned to build a comprehensive picture of each 
 
 ---
 
-## 4. Tools Used
+## Tools Used
 
 - **Python** – Core programming for data processing and analysis
 - **PostgreSQL** – Data extraction and transformation
@@ -51,14 +51,14 @@ These datasets were merged and cleaned to build a comprehensive picture of each 
 
 ---
 
-## 5. Key Findings
+## Key Findings
 
 -  **Segmentation Achieved**: Successfully segmented users based on engagement and booking behavior.
 -  **Business Implication**: Travel Tide can tailor perks and communication strategies to each user group, potentially increasing retention and conversion.
 
 ---
 
-## 6. Recommendations
+## Recommendations
 
 1. **Implement A/B Testing**  
    Validate the weighted scoring and perks distribution using controlled experiments to measure impact on user engagement and retention.
